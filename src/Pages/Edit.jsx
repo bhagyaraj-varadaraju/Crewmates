@@ -20,6 +20,7 @@ const Edit = () => {
                                         .eq('id', id);
 
             setCrewmate(crewmate[0]);
+            setInfo(crewmate[0]);
         }
 
         readCrewmate().catch(console.error);
@@ -35,7 +36,6 @@ const Edit = () => {
         .eq('id', id);
 
         alert("Crewmate updated successfully");
-        setInfo({ name: "", speed: "", color: "" });
         setCrewmate(info);
     }
 
