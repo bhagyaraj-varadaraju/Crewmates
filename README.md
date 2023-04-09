@@ -2,7 +2,7 @@
 
 Submitted by: **Bhagya Raj Varadaraju**
 
-This web app: **This app lets you create crewmates for among us game**
+This web app: **A full stack web application using supabase. This app lets you create crewmates for among us game**
 
 Time spent: **10** hours spent in total
 
@@ -17,6 +17,8 @@ The following **required** functionality is completed:
 - [x] **Each crewmate has a direct, unique link to an info page about them**
 
 ## Video Walkthrough
+
+https://user-images.githubusercontent.com/20358558/230751295-b062fed9-8c2a-4b8d-aaba-c000a666333b.mov
 
 ## License
 
