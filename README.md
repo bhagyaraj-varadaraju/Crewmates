@@ -1,14 +1,12 @@
-# Web Development Project 7 - *Crewmates*
+# *Crewmates*
 
-Submitted by: **Bhagya Raj Varadaraju**
-
-This web app: **A full stack web application using supabase. This app lets you create crewmates for among us game**
+About: **A full stack web application using supabase. This app lets you create and edit crewmates of among us game**
 
 Time spent: **10** hours spent in total
 
-## Required Features
+## Implemented Features
 
-The following **required** functionality is completed:
+The following functionality is completed:
 
 - [x] **A create form allows users to add new cremates**
 - [x] **Users can name the crewmate and set the crewmate's attributes by clicking on one of several values**
